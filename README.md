@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @niczprk. I'm an undergraduate student at the University of British Columbia
+- 👋 Hi, I’m Nic Zaparniuk. I'm an undergraduate student at the University of British Columbia
 - 👀 I’m interested in creating simulations based off of observational data, in all wavelengths, to model any proposed
   theories and try to distinguish the good from the great! I would love to even propose my own at some point.
 - 🌱 I’m currently learning Physics and Astronomy with my main goal being to study galaxies and their evolution.
