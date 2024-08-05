@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Physics and Astronomy with my main goal being to study galaxies and their evolution.
   I find space and the physics regarding astronomical objects to be fascinating and am always excited to learn whenever I can.
 - 💞️ I’m looking to collaborate on personal projects that have a basis in research and can improve my capabilities!
-- 📫 How to reach me: Send me an email @ nickzapper13@gmail.com
+- 📫 How to reach me: Send me an email @ niczaparniuk@gmail.com
 - 😄 Pronouns: He/Him
 - 🌐 Website: If you would like to know more about what I'm doing or have done:
 - Take a look at my website (I haven't made it yet)...
